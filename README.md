@@ -1,7 +1,27 @@
-『[プログラミング言語の基礎概念](https://www.amazon.co.jp/dp/4781912850?tag=noimpslmtbrk-22&linkCode=osi&th=1&psc=1)』の演習問題解答
+# CoPL (Concepts of Programming Languages) Exercises
 
-* 本のWebサイト: http://www.saiensu.co.jp/?page=book_details&ISBN=ISBN978-4-7819-1285-1
-* 演習システム: http://www.fos.kuis.kyoto-u.ac.jp/~igarashi/CoPL/index.cgi
+This repository contains my solutions and notes for  
+[Concepts of Programming Languages (CoPL)](http://www.saiensu.co.jp/?page=book_details&ISBN=ISBN978-4-7819-1285-1).
 
+## 📚 Resources
+- Book (Japanese): 『プログラミング言語の基礎概念』
+- Exercise system: http://www.fos.kuis.kyoto-u.ac.jp/~igarashi/CoPL/index.cgi
 
-TAPL(型システム入門)を読むにあたっての基礎知識として取り組んでおります。
+## 🎯 Purpose
+
+This work is part of my study of the theoretical foundations of programming languages,  
+in preparation for reading *Types and Programming Languages (TaPL)* and exploring type systems more deeply.
+
+## 🔍 Focus
+
+- Operational semantics
+- Evaluation rules
+- Basic formal reasoning about programs
+
+## 🚀 Context
+
+This repository complements my other projects:
+- Bidirectional typing in Lean 4
+- TaPL reading and formalization
+
+Together, these form my pathway toward research in programming languages and type systems.
